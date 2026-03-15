@@ -1,36 +1,17 @@
-#EXTM3U 
+#EXTM3U
+#EXT-X-VERSION:6
 
-#EXT-X-VERSION:6 
-
-#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=854x480 
-
-http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=854x480
+http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8|Referer=https://tv.eighty-eight.website/
 
 #EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1024x576
+http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8|Referer=https://tv.eighty-eight.website/
 
-http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3400000,RESOLUTION=1280x720
+http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8|Referer=https://tv.eighty-eight.website/
 
-#EXT-X-STREAM-INF:BANDWIDTH=3400000,RESOLUTION=1280x720 
-
-http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8 
-
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080 
-
-http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://watch1.eighty-eight.watch:8080/live/free/free/8.m3u8|Referer=https://tv.eighty-eight.website/
 
 
 
