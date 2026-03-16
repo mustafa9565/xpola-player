@@ -4,16 +4,16 @@
 
 #EXT-X-STREAM-INF:BANDWIDTH=3200000,RESOLUTION=854x480 
 
-https://stb.blc2cdn.fyi/live/60032_.m3u8 
+http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/6c5344944da389a17100533e6198d7b27419#.mpd 
 
 #EXT-X-STREAM-INF:BANDWIDTH=4200000,RESOLUTION=1024x576
 
-https://stb.blc2cdn.fyi/live/60042_.m3u8
+http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/6c5344944da389a17100533e6198d7b27419#.mpd
 
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,RESOLUTION=1280x720 
 
-https://stb.blc2cdn.fyi/live/60052_.m3u8 
+http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/6c5344944da389a17100533e6198d7b27419#.mpd 
 
 #EXT-X-STREAM-INF:BANDWIDTH=6500000,RESOLUTION=1920x1080 
 
-https://stb.blc2cdn.fyi/live/60092_.m3u8 
+http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/6c5344944da389a17100533e6198d7b27419#.mpd 
